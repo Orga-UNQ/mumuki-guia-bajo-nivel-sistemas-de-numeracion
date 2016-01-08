@@ -1,0 +1,1 @@
+Siguiendo con el sistema BSS(8), pero queriendo hacer menos trabajo, como podemos interpretar la cadena 01111111 sin usar mas de una potencia de 2?
