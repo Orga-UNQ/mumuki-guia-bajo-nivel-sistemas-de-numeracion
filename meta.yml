@@ -1,0 +1,9 @@
+---
+name: Sistemas de numeración
+locale: es
+type: practice
+beta: false
+language: text
+id_format: '%05d'
+order:
+- 1
