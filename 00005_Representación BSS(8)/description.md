@@ -5,4 +5,4 @@ Para representar valores mediante cadenas binarias, se deben realizar divisiones
 4. Se construye la cadena desde el ultimo hasta el primer resto: 110
 
 
-¿Cómo es la cadena que representa al valor 4 en un sistema BSS(8)?
+>¿Cómo es la cadena que representa al valor 4 en un sistema BSS(8)?
