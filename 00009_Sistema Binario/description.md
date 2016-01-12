@@ -1,0 +1,1 @@
+> **En construccion** Aca explicamos el sistema binario desde el decimal
