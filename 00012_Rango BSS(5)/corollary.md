@@ -1,0 +1,1 @@
+**Ayuda:** Te servirá recordar que con 5 bits es posible construir 32 cadenas!
