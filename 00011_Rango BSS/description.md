@@ -5,8 +5,9 @@ Es momento de preguntarnos: ¿qué números nos permite manejar un sistema? Pens
 
 Si esas cadenas están ordenadas alfabéticamente y asociadas cada una a un valor, tendremos:
 
-|Cadena | Interpretacion | Valor
-|00 | 0*2^1 + 0*2^0 |0
-|01 | 0*2^1 + 1*2^0 |1
-|10 | 1*2^1 + 0*2^0 |2
-|11 | 1*2^1 + 1*2^0 |3
+|Cadena | Interpretacion | Valor|
+| ------------- |:-------------:| -----:|
+|00 | 0 x 2^1 + 0 x 2^0 |0|
+|01 | 0 x 2^1 + 1 x 2^0 |1|
+|10 | 1 x 2^1 + 0 x 2^0 |2|
+|11 | 1 x 2^1 + 1 x 2^0 |3|
