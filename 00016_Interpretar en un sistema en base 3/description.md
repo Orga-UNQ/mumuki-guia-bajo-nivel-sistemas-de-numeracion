@@ -14,7 +14,7 @@ Interpretemos la cadena: 2221
 |cadena|2 | 2 |2 |1 |
 |:---:|:---:|:---:|:----:|:--:|
 |**pesos**|3³|3²|3¹|3⁰|
-|interpretacion| 1x3³+ |1x3²+ | 0x3¹+ | 0x3⁰ |
+|**interpretacion:**| 1x3³+ |1x3²+ | 0x3¹+ | 0x3⁰ |
  
  >¿Cual es la interpretacion de la cadena 111?
  
