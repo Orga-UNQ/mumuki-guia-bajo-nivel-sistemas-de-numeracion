@@ -9,10 +9,10 @@ Tal como hemos aprendido a sumar "en papel" para el sistema decimal, pensaremos 
  7
 ```
 
-
-
-
-y entonces debemos distingui
+Similarmente, en binario debemos distinguir algunos casos, que tienen que ver con las posibles combinaciones entre ambos operandos, que afortunadamente no son muchos, pues cada operando puede ser solamente `0` ó bien `1`.
 
 ![Suma: casos](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-sistemas-de-numeracion/blob/master/images/casos-suma.png?raw=true)
 
+# Poniendo en práctica
+
+¿Cuál es *la cadena* que resulta de sumar las cadenas `101` y `001`?
