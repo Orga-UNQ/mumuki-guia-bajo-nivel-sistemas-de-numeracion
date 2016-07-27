@@ -24,21 +24,17 @@ Así, el **sistema hexadecimal** tiene el siguiente conjunto de 16 símbolos: {0
 - Chan!!
 ```
 
-No les costó mucho darse cuenta que para seguir con la secuencia del sistema decimal, cada letra debía tener un valor específico:
+No les costó mucho darse cuenta que tenían que decidir **que valor tenía cada letra** y entonces podían seguir con la secuencia del sistema decimal:
 
-Dígito | 0 | 1|2|3|4|5|6|7|8|9|A|B|C|D|E|F
-Valor | 0 | 1|2|3|4|5|6|7|8|9|10|11|12|13|14|15
+|Dígito | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
+|-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Valor** | 0 | 1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
 
-Ya dijimos que la **interpretación** es el proceso por el cual se obtiene el valor de una cadena dada, en un **sistema de numeración** determinado.
 
-La interpretación en hexadecimal debe manejar la base 16, la interpretación sería la suma de **pesos en base 16**. 
+Veamos un ejemplo: supongamos un sistema hexadecimal de 2 caracteres. Entonces, si la cadena es `01` entonces la interpretación i es `16^0`
 
-Hasta ahí parece sencillo, pero no nos olvidemos de un detalle, cada peso va multiplicado por el valor del dígito, y eso era fácil en binario pues puede ser 0 ó 1. 
+Veamos otro ejemplo: supongamos un sistema hexadecimal de 3 caracteres. Entonces, si la cadena es `0A` entonces la interpretación i es `10*16^0`
 
-Como vimos, el sistema hexadecimal usa caracteres alfabéticos para denotar unidades (en ese sistema) mayores a 9 y menores a 16. Entonces esos caracteres deben traducirse a su valor y multiplicar por el peso que corresponde a su posición.
-
-Veamos un ejemplo: supongamos un sistema hexadecimar de 2 caracteres. Entonces, si la cadena es `01` entonces la interpretación i es `16^0`
-
-Veamos otro ejemplo: supongamos un sistema hexadecimar de 3 caracteres. Entonces, si la cadena es `0A` entonces la interpretación i es `10*16^0`
+# A trabajar
 
 >¿Cuál es la interpretación de la cadena _'A0'_?
