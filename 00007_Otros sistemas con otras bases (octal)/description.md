@@ -7,7 +7,7 @@ Supongamos que tenemos el conjunto de símbolos **{0,1,2}**, entonces las cadena
 Si te decimos que en este sistema la base es 3, entonces ya sabés interpretar!
 
 |cadena|2 | 2 |2 |1 |
-|---|---|---|----|--|
+|:---:|:---:|:---:|:----:|:--:|
 |**pesos**|3³|3²|3¹|3⁰|
 
 > I(2221)= 2 x 3³ + 2x3² + 2x3¹ + 1x3⁰
