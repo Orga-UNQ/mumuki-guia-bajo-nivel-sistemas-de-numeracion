@@ -6,5 +6,5 @@ Veamos un ejemplo: Si se necesita representar el número 24:
 
 ![](https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-sistemas-de-numeracion/blob/master/images/rephexa24.png?raw=true)
 
-# A practicar
+### A practicar
 > Representá ahora el numero 30 en el sistema hexadecimal
