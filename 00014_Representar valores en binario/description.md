@@ -16,7 +16,7 @@ Vamos a un ejemplo, si se necesita representar el número 26:
 3. Se divide 1%2 dando un cociente de 0 y un resto 1
 4. Se construye la cadena **tomando solo los restos, empezando por el último**: 11010
 
-#A practivar
+### A practicar
 
 >¿Cuál es la cadena que representa el 6 en BSS?
 
