@@ -10,7 +10,7 @@ Si te decimos que en este sistema la base es 3, entonces ya sabés interpretar!
 |cadena|2 | 2 |2 |1 |
 |:---:|:---:|:---:|:----:|:--:|
 |**pesos**|3³|3²|3¹|3⁰|
-|**interpretacion:**| 2x3³+ |2x3²+ | 2x3¹+ | 1x3⁰ |
+|**interpretacion:**| 2*3³+ |2*3²+ | 2*3¹+ | 1*3⁰ |
 
 ### Sistema Octal
 
@@ -20,7 +20,7 @@ El **sistema octal** es un sistema posicional cuyo conjunto de símbolos es **{0
 |:---:|:---:|:---:|:---:|:---:|
 |**pesos**|8³|8²|8¹|8⁰|
 
-> I(2221)= 2 x 8³ + 2x8² + 2x8¹ + 1x8⁰
+> I(2221)= 2 *8³ + 2*8² + 2*8¹ + 1*8⁰
 
 ### A practicar
 
