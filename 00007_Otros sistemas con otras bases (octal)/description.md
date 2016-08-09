@@ -20,7 +20,7 @@ El **sistema octal** es un sistema posicional cuyo conjunto de símbolos es **{0
 |:---:|:---:|:---:|:---:|:---:|
 |**pesos**|8³|8²|8¹|8⁰|
 
-> I(2221)= 2 *8³ + 2*8² + 2*8¹ + 1*8⁰
+> I(2221)= 2\*8³ + 2\*8² + 2\*8¹ + 1\*8⁰
 
 ### A practicar
 
