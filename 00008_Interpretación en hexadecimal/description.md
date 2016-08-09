@@ -1,4 +1,4 @@
-# Símbolos del sistema
+## Símbolos del sistema
 
 Dos amigos a quienes les gustaba la matemática se juntaron un día.
 
@@ -35,6 +35,6 @@ Veamos un ejemplo: supongamos un sistema hexadecimal de 2 caracteres. Entonces, 
 
 Veamos otro ejemplo: supongamos un sistema hexadecimal de 3 caracteres. Entonces, si la cadena es `0A` entonces la interpretación i es `10*16^0`
 
-# A trabajar
+## A trabajar
 
 >¿Cuál es la interpretación de la cadena _'A0'_?

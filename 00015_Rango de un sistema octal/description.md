@@ -1,4 +1,4 @@
-# Economía, segunda parte
+### Economía, segunda parte
 
 Si, para que hacer mucho esfuerzo si podemos usar lo que [ya sabemos de rango en un sistema binario](http://orga-unq.mumuki.io/exercises/2549-bajo-nivel-sistemas-de-numeracion-rango-bss) para pensar y calcular el rango de un sistema octal?
 
