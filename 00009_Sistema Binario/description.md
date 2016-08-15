@@ -1,6 +1,11 @@
 ## Interpretando en el sistema binario
 
-Lo anterior puede aplicarse casi directamente en el sistema binario, considerando que la base es 2, ¿Cual es el valor de la cadena `1`? 
+La **interpretación** es el proceso por el cual se obtiene el valor de una cadena dada. 
+
+![Interpretacion](https://raw.githubusercontent.com/Orga-UNQ/mumuki-guia-bajo-nivel-sistemas-de-numeracion/master/images/interpretar.png "Interpretacion")
+
+
+La interpretación decimal puede aplicarse casi directamente en el sistema binario, considerando que la base es 2, ¿Cual es el valor de la cadena `1`? 
 
 Correcto! su valor es: **1\*2^0 = 2^0 = 1**
 
