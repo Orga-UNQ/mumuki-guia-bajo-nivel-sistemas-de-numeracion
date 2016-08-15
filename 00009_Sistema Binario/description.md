@@ -24,7 +24,8 @@ De ahora en más, las interpretaciones deben ser **ordenadas** y **económicas**
 porque está en orden incorrecto.
 
 Además, si debe ser económica, la interpretación de la cadena `10` **no debe ser** ninguna de las siguientes:
-* 1*2^1
+
+* 1\*2^1
 * 1\*2^1 + 0\*2^0
 
 Entonces, la interpretación de la cadena `10` es **2^1** ¿Mas económico, no?
