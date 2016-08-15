@@ -9,10 +9,10 @@ Si esas cadenas están ordenadas alfabéticamente y asociadas cada una a un valo
 
 |Cadena | Interpretacion | Valor|
 | ------------- |:-------------:| -----:|
-|00 | 0 x 2^1 + 0 x 2^0 |0|
-|01 | 0 x 2^1 + 1 x 2^0 |1|
-|10 | 1 x 2^1 + 0 x 2^0 |2|
-|11 | 1 x 2^1 + 1 x 2^0 |3|
+|00 |  |0|
+|01 | 2^0 |1|
+|10 | 2^1  |2|
+|11 | 2^1 + 2^0 |3|
 
 Es decir, que el rango de valores representables en BSS(3) son los enteros entre 0 y 3 (inclusive)
 
