@@ -28,7 +28,7 @@ Además, si debe ser económica, la interpretación de la cadena `10` **no debe 
 * 1\*2^1
 * 1\*2^1 + 0\*2^0
 
-Entonces, la interpretación de la cadena `10` es **2^1** ¿Mas económico, no?
+Entonces, la interpretación correcta para mumuki de la cadena `10` es **2^1** ¿Mas económico, no?
 
 ### Para calentar motores
 
