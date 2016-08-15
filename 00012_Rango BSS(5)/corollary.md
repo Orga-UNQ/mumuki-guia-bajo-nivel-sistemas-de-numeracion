@@ -1,1 +1,2 @@
-**Ayuda:** Te servirá recordar que con 5 bits es posible construir 32 cadenas!
+
+Hasta ahora ejercitamos la "lectura" de una cadena bss, para descubrir su valor. Es hora de comenzar a representar valores!

@@ -6,3 +6,5 @@ Recordemos que:
 Supongamos ahora el sistema BSS(5)
 
 >¿Cuál es el máximo valor que puede representar?
+
+**Ayuda:** Te servirá recordar que con 5 bits es posible construir 32 cadenas!
