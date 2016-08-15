@@ -33,7 +33,7 @@ Entonces, la interpretación correcta para mumuki de la cadena `10` es **2^1** �
 ### Para calentar motores
 
 
-Para familiarizarte con la manera en que esperamos que escribas tus respuestas, copiá lo que ponemos abajo y pegalo en el editor del costado. Luego dale clic al botón enviar.
+Para familiarizarte con la manera en que esperamos que escribas tus respuestas, copiá lo que ponemos abajo y pegalo en el editor. Luego dale clic al botón enviar.
 
 ```
 2^2 + 2^1 + 2^0
