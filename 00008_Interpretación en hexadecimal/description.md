@@ -37,4 +37,5 @@ Veamos otro ejemplo: supongamos un sistema hexadecimal de 3 caracteres. Entonces
 
 ## A trabajar
 
+
 >¿Cuál es la interpretación de la cadena _'A0'_?
