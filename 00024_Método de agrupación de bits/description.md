@@ -36,7 +36,7 @@ Supongamos que tenemos una cadena de bits:```01010110``` y necesitamos **su equi
 
 > I(01010110) = 2⁶+2⁴+2²+2¹ = (2²*2⁴ + 1*2⁴) + (2²+2¹) = (2² + 1) * 2⁴ + (2²+2¹) * 1 = (2² + 1) * 16¹ + (2²+2¹) * 16⁰ = 5 * 16¹ + 6 * 16⁰
 
-Esta última expresión (****) se puede representar en hexadecimal literalmente:
+Esta última expresión (**5 * 16¹ + 6 * 16⁰)**) se puede representar en hexadecimal literalmente:
 
 > R( 5 * 16¹ + 6 * 16⁰) = 56
 
