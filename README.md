@@ -7,5 +7,5 @@ Copyright  and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/orga-unq/mumuki-guia-bajo-nivel-sistemas-de-numeracion and the AUTHORS.txt file.
+available at https://github.com/Orga-UNQ/mumuki-guia-bajo-nivel-sistemas-de-numeracion and the AUTHORS.txt file.
 
